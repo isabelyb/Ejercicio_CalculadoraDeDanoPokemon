@@ -37,3 +37,5 @@ Como ejemplo, imagina que tienes un Glaceon de tipo hielo nivel 75 con un estad�
 Haz los cálculos de tal manera que la variable de pokemon tenga la información de los tipos, y calcule la variable de Type en la fórmula con base en estos, de igual manera haz los cálculos de tal manera de que siempre trunques al entero anterior siempre que realices una multiplicación o una división, en vez de hacerlo al final.
 
 # Pokemon Excercise
+
+[Pokemon database](https://pokemondb.net/pokedex/all)
