@@ -1,4 +1,9 @@
-ES 🇪🇸 | [EN 🇺🇸](https://github.com/isabelyb/Ejercicio_CalculadoraDeDanoPokemon/blob/main/README.md#pokemon-excercise)
+
+<p align="right">
+     ES 🇪🇸 | <a href="https://github.com/isabelyb/Ejercicio_CalculadoraDeDanoPokemon/blob/main/README.md#pokemon-excercise/">EN 🇺🇸</a>
+</p>
+
+
 
 # Ejercicio_CalculadoraDeDañoPokemon
 En este ejercicio tendrás que crear una función que calcule el daño de batalla en el ataque de un pokemon a otro. 
