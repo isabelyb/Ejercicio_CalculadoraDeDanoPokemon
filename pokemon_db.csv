@@ -1,0 +1,13 @@
+,name,type,level,attack,defense,sp_attack,sp_defense
+1,Bulbasaur,GRASS/POISON,45,49,49,65,65
+2,Ivysaur,GRASS/POISON,60,62,63,80,80
+3,Venusaur,GRASS/POISON,80,82,83,100,100
+4,Charmander,FIRE,39,52,43,60,50
+5,Charmeleon,FIRE,58,64,58,80,65
+6,Charizard,"FIRE
+FLYING",78,84,78,109,85
+7,Squirtle,WATER,44,48,65,50,64
+8,Wartortle,WATER,59,63,80,65,80
+9,Glaceon,ICE,65,60,110,130,95
+10,Garchomp,"DRAGON
+GROUND",108,130,95,80,85
